@@ -3,7 +3,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <a href="sendemail.html">Click here</a>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Web Page</title>
     <style>
@@ -101,7 +100,6 @@
 
             <input type="submit" class="submit-button" value="Submit">
         </form>
-        <a href="we1.html">Click here</a>
     </div>
 </body>
 </html>
